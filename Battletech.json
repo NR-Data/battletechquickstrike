@@ -1,0 +1,638 @@
+{
+  "catalogue": {
+    "name": "Battletech - Quick Strike",
+    "id": "3e28d1c9-1904-47e0-9a4f-78c1aef9f279",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "fc079761-2937-49e8-bf32-0b25e0ed8da6",
+    "gameSystemRevision": 1,
+    "revision": 2,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "selectionEntries": [
+      {
+        "name": "Assassin ASN-21",
+        "id": "e90b90f0-11b0-4437-9344-7ef70a833158",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "e90b90f0-11b0-4437-9344-7ef70a833158-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 7}],
+        "profiles": [
+          {
+            "name": "ASN-21",
+            "id": "ASN-21###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "14j", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "2", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "1", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "1", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "1", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "2", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "3", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Catapult CPLT-C1",
+        "id": "e2571d35-fb36-4a03-a22a-070da602ee65",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "e2571d35-fb36-4a03-a22a-070da602ee65-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 14}],
+        "profiles": [
+          {
+            "name": "CPLT-C1",
+            "id": "CPLT-C1###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "8j", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "3", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "2", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "0", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "1", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "LRM: 1/1/1, IF1, SRCH, SOA, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "5", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "5", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cicada CDA-2A",
+        "id": "4dd39d97-3fd4-4b67-a2f9-ab26d4155d1e",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "4dd39d97-3fd4-4b67-a2f9-ab26d4155d1e-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 7}],
+        "profiles": [
+          {
+            "name": "CDA-2A",
+            "id": "CDA-2A###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "16", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "2", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "1", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "0", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "ENE, SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "2", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "3", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Clint CLNT-2-3T",
+        "id": "13f59421-114d-4c88-ac44-8e39963bf0fd",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "13f59421-114d-4c88-ac44-8e39963bf0fd-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 8}],
+        "profiles": [
+          {
+            "name": "CLNT-2-3T",
+            "id": "CLNT-2-3T###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "12j", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "2", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "2", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "1", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "2", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "3", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Commando COM-2D",
+        "id": "fd9b5e96-bb2a-4cb8-b124-7fccb02dd5a0",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "fd9b5e96-bb2a-4cb8-b124-7fccb02dd5a0-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 5}],
+        "profiles": [
+          {
+            "name": "COM-2D",
+            "id": "COM-2D###DATA###",
+            "typeId": "Battlemechs###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "12", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "1", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "1", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "1", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "0", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "SRM 1/1/0, SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "2", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "2", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dervish DV-6M",
+        "id": "6ef0bb4e-0035-4334-9d18-64237ee4fee0",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "6ef0bb4e-0035-4334-9d18-64237ee4fee0-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 11}],
+        "profiles": [
+          {
+            "name": "DV-6M",
+            "id": "DV-6M###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "typeId": "Move###DATA###"},
+              {"name": "Size", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dragon DRG-1N",
+        "id": "fb6ee01a-ea0c-4ed8-b62f-cab0f79d3e61",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "fb6ee01a-ea0c-4ed8-b62f-cab0f79d3e61-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 11}],
+        "profiles": [
+          {
+            "name": "DRG-1N",
+            "id": "DRG-1N###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "10", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "3", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "2", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "2", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "IF1, SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "5", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "5", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Enforcer ENF-4R",
+        "id": "924978d8-3f1d-4568-89f4-ab1188ecb937",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "924978d8-3f1d-4568-89f4-ab1188ecb937-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 10}],
+        "profiles": [
+          {
+            "name": "ENF-4R",
+            "id": "ENF-4R###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "8j", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "2", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "1", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "0", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "AC: 1/1/0, SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "5", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "4", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grasshopper GHR-5H",
+        "id": "da2ad0db-991b-4b44-9916-5ed3484972cd",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "da2ad0db-991b-4b44-9916-5ed3484972cd-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 14}],
+        "profiles": [
+          {
+            "name": "GHR-5H",
+            "id": "GHR-5H###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "8j", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "3", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "3", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "4", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "1", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "7", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "6", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hermes II HER-2S",
+        "id": "3f79527c-f655-4076-a6a8-18c2b269853a",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "3f79527c-f655-4076-a6a8-18c2b269853a-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 8}],
+        "profiles": [
+          {
+            "name": "HER-2S",
+            "id": "HER-2S###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "12", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "2", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "1", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "1", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "4", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "3", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hunchback HBK-4G",
+        "id": "610f9c86-1117-4575-b17e-3888551cb42e",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "610f9c86-1117-4575-b17e-3888551cb42e-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 10}],
+        "profiles": [
+          {
+            "name": "HBK-4G",
+            "id": "HBK-4G###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "8", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "2", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "1", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "0", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "AC: 2/2/0, SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "5", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "4", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Jagermech JM6-S",
+        "id": "0934c90c-6402-4973-b1ec-afa63d021601",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "0934c90c-6402-4973-b1ec-afa63d021601-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 9}],
+        "profiles": [
+          {
+            "name": "JM6-S",
+            "id": "JM6-S###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "8", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "3", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "1", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "1", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "0", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "AC: 1/1/1, SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "3", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "5", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Jenner JR7-D",
+        "id": "225a2a21-2840-436d-9f70-2b87b54be4d6",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "225a2a21-2840-436d-9f70-2b87b54be4d6-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 9}],
+        "profiles": [
+          {
+            "name": "JR7-D",
+            "id": "JR7-D###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "14/6j", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "1", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "2", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "0", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "1", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "2", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "3", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Panther PNT-9R",
+        "id": "c4aee0fc-79cd-4c1e-be59-624842845953",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "c4aee0fc-79cd-4c1e-be59-624842845953-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 8}],
+        "profiles": [
+          {
+            "name": "PNT-9R",
+            "id": "PNT-9R###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "8j", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "1", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "2", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "1", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "3", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "3", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Quickdraw QKD-4G",
+        "id": "d4994f29-c171-4598-9f9f-70df1d3daa1b",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "d4994f29-c171-4598-9f9f-70df1d3daa1b-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 12}],
+        "profiles": [
+          {
+            "name": "QKD-4G",
+            "id": "QKD-4G###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "10j", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "3", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "3", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "1", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "IF1, SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "4", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "5", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Spider SDR-4G",
+        "id": "d529eec0-6827-44fb-b932-de06d0ceeda0",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "d529eec0-6827-44fb-b932-de06d0ceeda0-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 6}],
+        "profiles": [
+          {
+            "name": "SDR-5V",
+            "id": "SDR-5V###DATA###",
+            "typeId": "Battlemechs###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "16j", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "1", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "1", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "1", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "0", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "ENE, SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "2", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "3", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Trebuchet TBT-5N",
+        "id": "32b305fe-af77-42b1-b6f5-9a7cb9f6b164",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "32b305fe-af77-42b1-b6f5-9a7cb9f6b164-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 12}],
+        "profiles": [
+          {
+            "name": "TBT-5N",
+            "id": "TBT-5N###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "10", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "2", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "2", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "1", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "1", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "IF1. SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "4", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "4", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Vindicator VND-1R",
+        "id": "ffd95e96-c5cb-477e-b920-5964c6c1a05a",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "ffd95e96-c5cb-477e-b920-5964c6c1a05a-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 10}],
+        "profiles": [
+          {
+            "name": "VND-1R",
+            "id": "VND-1R###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "8j", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "2", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "2", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "2", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "5", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "4", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Whitworth WTH-1",
+        "id": "96935230-6494-4d03-9b58-bda79abcbfff",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "96935230-6494-4d03-9b58-bda79abcbfff-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 10}],
+        "profiles": [
+          {
+            "name": "WTH-1",
+            "id": "WTH-1###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "8j", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "2", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "2", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "1", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "1", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "IF1, SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "4", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "3", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Awesome AWS-8Q",
+        "id": "38f02c4c-0772-4249-8fc5-c0e260abff24",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "38f02c4c-0772-4249-8fc5-c0e260abff24-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 16}],
+        "profiles": [
+          {
+            "name": "AWS-8Q",
+            "id": "AWS-8Q###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "6", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "4", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "3", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "3", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "3", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "ENE, SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "8", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "6", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Zeus ZEU-6S",
+        "id": "d136a1e9-a751-4e8f-820b-6c539a3565c6",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "d136a1e9-a751-4e8f-820b-6c539a3565c6-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 13}],
+        "profiles": [
+          {
+            "name": "New Profile",
+            "id": "New Profile###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "8", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "4", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "3", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "3", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "2", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "IF1, SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "6", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "6", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cyclops CP-10-Z",
+        "id": "789b173a-69e0-4dc5-b9c2-6e694f5ee2e2",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "789b173a-69e0-4dc5-b9c2-6e694f5ee2e2-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 13}],
+        "profiles": [
+          {
+            "name": "New Profile",
+            "id": "New Profile###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "8", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "4", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "2", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "1", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "2", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "AC: 1/1/0. SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "5", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "7", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Banshee BNC-3E",
+        "id": "b3851244-0d1e-43a6-9ebe-a9f2d19f8586",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "b3851244-0d1e-43a6-9ebe-a9f2d19f8586-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 14}],
+        "profiles": [
+          {
+            "name": "New Profile",
+            "id": "New Profile###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "8", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "4", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "2", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "2", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "8", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "8", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Atlas AS7-D",
+        "id": "a99b816f-021e-4bd4-9d93-09967c8e6e3e",
+        "collective": false,
+        "type": "unit",
+        "categoryLinks": [{"id": "a99b816f-021e-4bd4-9d93-09967c8e6e3e-Mechs###DATA###", "primary": true, "targetId": "Mechs###DATA###"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 19}],
+        "profiles": [
+          {
+            "name": "New Profile",
+            "id": "New Profile###DATA###",
+            "typeId": "Units###DATA###",
+            "characteristics": [
+              {"name": "Move", "$text": "6", "typeId": "Move###DATA###"},
+              {"name": "Size", "$text": "4", "typeId": "Size###DATA###"},
+              {"name": "Short Range Damage", "$text": "2", "typeId": "Short Range Damage###DATA###"},
+              {"name": "Medium Range Damage", "$text": "2", "typeId": "Medium Range Damage###DATA###"},
+              {"name": "Long Range Damage", "$text": "0", "typeId": "Long Range Damage###DATA###"},
+              {"name": "Overheat", "$text": "0", "typeId": "Overheat###DATA###"},
+              {"name": "Specials", "$text": "LRM: 1/1/1, IF1. AC: 2/2/0, SRCH, SOA, SEAL, ES", "typeId": "Specials###DATA###"},
+              {"name": "Armor", "$text": "10", "typeId": "Armor###DATA###"},
+              {"name": "Structure", "$text": "8", "typeId": "Structure###DATA###"}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
